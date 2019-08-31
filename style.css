@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin: 10px;
+}
+
+#name {
+    font-size: 30px;
+    font-weight: bold; 
+    float: center;
+    
+}
+
+
+.container h2 {
+    
+    text-decoration: underline;
+    color: rgb(6, 105, 219);
+
+}
+
+.container {
+    margin: auto;
+    overflow: hidden;
+}
+
+.column {
+    float: left;
+    width: 40%;
+
+}
