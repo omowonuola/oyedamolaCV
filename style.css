@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin: 10px;
+}
+
+#name {
+    font-size: 30px;
+    font-weight: bold; 
+    
+    
+}
+
+img {
+   width: 200px;
+   height: 200px;
+   float: right;
+   margin-top: 10px;
+ 
+
+}
+
+
+.container h2 {
+    
+    text-decoration: underline;
+    color: rgb(6, 105, 219);
+
+}
+
+.container {
+    margin: auto;
+    overflow: hidden;
+
+}
+
+.column {
+    float: left;
+    width: 40%;
+
+}
+
+
+#uname {
+    width: 20%;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+#email {
+    width: 20%;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 50px;
+
+}
+
+#message {
+    width: 20%;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 50px;
+}
+
+.button_1:hover {
+    background: rgb(5, 218, 233);
+}
+
+.button_1 {
+     width: 15%;
+    padding: 20px;
+    margin: 50px;
+}
+
